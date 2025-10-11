@@ -17,5 +17,5 @@ Experiência em: Ciência de Dados, Python,  Contabilidade e Análise Financeira
 
 ## Projetos:
 
-* **Analise de Dados Airbnb - Cidade de Barcelona: ** http://bit.ly/3KSfN41
+* **Analise de Dados Airbnb - Cidade de Barcelona:** http://bit.ly/3KSfN41
 
